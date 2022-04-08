@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Samuel Calto"
-  avatar : "/assets/img/bio-photo.jpg"
+  avatar : "/assets/img/profile-photo.png"
   bio    : "Current design/music student at UC San Diego."
   links:
     - label: "Website"
