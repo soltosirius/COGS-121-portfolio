@@ -11,4 +11,6 @@ tags:
 
 This is a case study detailing the composition and mixing of a small soundtrack for a theatre project. TBU
 
-![Screenshot of REAPER showing a piece.](/assets/img/REAPER_temp.png)
+{% capture fig_img %}
+[![Screenshot of REAPER showing a mix of a piece.](/assets/img/REAPER_temp.png)](https:soltosirius.github.io)
+{% endcapture %}
