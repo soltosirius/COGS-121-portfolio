@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "DSGN 100 Case Study"
 excerpt_separator: "<!--more-->"
 header:
   image: /assets/img/Homepage.png

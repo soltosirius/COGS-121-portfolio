@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Music Case Study"
 excerpt_separator: "<!--more-->"
 header:
   image: /assets/img/REAPER_temp.png
