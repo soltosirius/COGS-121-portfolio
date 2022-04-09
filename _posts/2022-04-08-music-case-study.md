@@ -1,6 +1,9 @@
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
+header:
+  image: /assets/img/REAPER_temp.png
+  caption: Screenshot of REAPER showing a mix of a piece.
 categories:
   - Blog
 tags:
@@ -10,7 +13,3 @@ tags:
 ---
 
 This is a case study detailing the composition and mixing of a small soundtrack for a theatre project. TBU
-
-{% capture fig_img %}
-[![Screenshot of REAPER showing a mix of a piece.](/assets/img/REAPER_temp.png)](https:soltosirius.github.io)
-{% endcapture %}
